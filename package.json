@@ -1,6 +1,6 @@
 {
   "name": "karma-expect",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Expect.js adapter for Karma",
   "main": "./index.js",
   "scripts": {
