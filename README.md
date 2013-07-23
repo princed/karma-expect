@@ -48,7 +48,7 @@ module.exports = (karma) ->
 Usage
 -----
 
-Expect.js assertions are availible in the tests:
+Expect.js assertions are available in the tests:
 
 ```coffee
 describe 'karma tests with expect', ->
