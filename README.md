@@ -6,9 +6,9 @@ karma-expect
 Motivation
 ----------
 
-You should use only if you want run tests in IE8 and lower, otherwise consider using [karma-chai](https://github.com/xdissent/karma-chai/), which allows to use more complete [Chai](http://chaijs.com/) BDD API.
+You should use only if you want run tests in IE8 and lower, otherwise consider [karma-chai](https://github.com/xdissent/karma-chai/), which provides more complete [Chai](http://chaijs.com/) BDD API.
 
-Also this adapter is heavily inspired by [karma-chai](https://github.com/xdissent/karma-chai/).
+Also this module is heavily inspired by [karma-chai](https://github.com/xdissent/karma-chai/).
 
 Requirements
 ------------
@@ -26,7 +26,7 @@ Note that the Karma configuration file format has changed since `v0.8`. Use
 Installation
 ------------
 
-Install the module from Github:
+Install the module from npm:
 
 ```sh
 $ npm install karma-expect --save-dev

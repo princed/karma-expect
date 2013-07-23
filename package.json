@@ -1,6 +1,6 @@
 {
   "name": "karma-expect",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Expect.js adapter for Karma",
   "main": "./index.js",
   "scripts": {
@@ -16,7 +16,10 @@
     "bdd",
     "mocha"
   ],
-  "author": "Eugene Datsky <eugene@datsky.ru>",
+  "author": {
+    "name": "Eugene Datsky",
+    "email": "eugene@datsky.ru"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/princed/karma-expect/issues"
