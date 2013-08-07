@@ -10,19 +10,6 @@ You should use it only if you want run tests in **IE8 and lower**, otherwise con
 
 Also this module is heavily inspired by [karma-chai](https://github.com/xdissent/karma-chai/).
 
-Requirements
-------------
-
-This module currently requires the `canary` version of Karma:
-
-```sh
-$ npm install 'karma@canary' --save-dev
-```
-
-Note that the Karma configuration file format has changed since `v0.8`. Use 
-`karma init` to generate a fresh config.
-
-
 Installation
 ------------
 

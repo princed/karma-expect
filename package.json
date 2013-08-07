@@ -1,6 +1,6 @@
 {
   "name": "karma-expect",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Expect.js adapter for Karma",
   "main": "./index.js",
   "scripts": {
@@ -23,6 +23,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/princed/karma-expect/issues"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
   },
   "dependencies": {
     "expect.js": "~0.2.0"
