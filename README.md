@@ -6,9 +6,7 @@ karma-expect
 Motivation
 ----------
 
-You should use it only if you want run tests in **IE8 and lower**, otherwise consider [karma-chai](https://github.com/xdissent/karma-chai/), which provides more complete [Chai](http://chaijs.com/) BDD and TDD API.
-
-Also this module is heavily inspired by [karma-chai](https://github.com/xdissent/karma-chai/).
+You should use it only if you want run tests in **IE8 and lower**, otherwise consider [karma-chai](https://github.com/princed/karma-chai-plugins/), which provides more complete [Chai](http://chaijs.com/) assertions as well as additional plugins.
 
 Installation
 ------------
