@@ -23,10 +23,10 @@ Add `expect` to the `frameworks` key in your Karma configuration:
 module.exports = function(karma) {
   karma.set({
 
-    # frameworks to use
+    // frameworks to use
     frameworks: ['mocha', 'expect']
 
-    # ...
+    // ...
   });
 };
 ```
