@@ -21,14 +21,16 @@ $ npm install karma-expect --save-dev
 
 Add `expect` to the `frameworks` key in your Karma configuration:
 
-```coffee
-module.exports = (karma) ->
-  karma.configure
+```js
+module.exports = function(karma) {
+  karma.set({
 
     # frameworks to use
     frameworks: ['mocha', 'expect']
 
     # ...
+  });
+};
 ```
 
 
@@ -37,9 +39,10 @@ Usage
 
 Expect.js assertions are available in the tests:
 
-```coffee
-describe 'karma tests with expect', ->
-
-  it 'should expose the Chai expect method', ->
-    expect('foo').to.not.equal 'bar'
+```js
+describe('karma tests with expect', function() {
+  it('should expose expect method', function() {
+    expect('foo').to.not.equal('bar');
+  });
+});
 ```
