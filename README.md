@@ -6,7 +6,7 @@ karma-expect
 Motivation
 ----------
 
-You should use it only if you want run tests in **IE8 and lower**, otherwise consider [karma-chai](https://github.com/princed/karma-chai-plugins/), which provides more complete [Chai](http://chaijs.com/) assertions as well as additional plugins.
+You should use it only if you want run tests in **IE8 and lower**, otherwise consider [karma-chai-plugins](https://github.com/princed/karma-chai-plugins/), which provides more complete [Chai](http://chaijs.com/) assertions as well as additional plugins.
 
 Installation
 ------------
