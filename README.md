@@ -3,6 +3,8 @@ karma-expect
 
 > [Expect](https://github.com/LearnBoost/expect.js/) for [Karma](http://karma-runner.github.io)
 
+[![Dependency Status](https://gemnasium.com/princed/karma-expect.svg)](https://gemnasium.com/princed/karma-expect)
+
 Motivation
 ----------
 
