@@ -24,7 +24,7 @@
     "url": "https://github.com/princed/karma-expect/issues"
   },
   "peerDependencies": {
-    "karma": ">=0.9"
+    "karma": ">=0.13.10"
   },
   "dependencies": {
     "expect.js": "~0.3.1"
