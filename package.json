@@ -8,6 +8,7 @@
     "url": "https://github.com/princed/karma-expect.git"
   },
   "scripts": {
+    "pretest": "eslint .",
     "test": "karma start"
   },
   "keywords": [
@@ -27,6 +28,7 @@
     "url": "https://github.com/princed/karma-expect/issues"
   },
   "devDependencies": {
+    "eslint": "1.6.0",
     "karma": ">=0.9",
     "karma-firefox-launcher": "0.1.6",
     "karma-mocha": "0.2.0",
