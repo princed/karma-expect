@@ -1,9 +1,7 @@
-karma-expect
+[karma](http://karma-runner.github.io)-[expect](https://github.com/Automattic/expect.js)
 ============
 
-> [Expect](https://github.com/LearnBoost/expect.js/) for [Karma](http://karma-runner.github.io)
-
-[![Dependency Status](https://gemnasium.com/princed/karma-expect.svg)](https://gemnasium.com/princed/karma-expect)
+[![Dependency Status](https://img.shields.io/david/princed/karma-expect.svg)](https://david-dm.org/princed/karma-expect) [![NPM version](https://img.shields.io/npm/princed/karma-expect.svg)](https://www.npmjs.com/package/karma-expect) [![Travis CI](https://img.shields.io/travis/princed/karma-expect.svg)](https://travis-ci.org/princed/karma-expect)
 
 Motivation
 ----------
