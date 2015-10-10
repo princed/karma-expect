@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/princed/karma-expect.git"
   },
+  "scripts": {
+    "test": "karma start"
+  },
   "keywords": [
     "karma",
     "karma-plugin",
@@ -23,8 +26,13 @@
   "bugs": {
     "url": "https://github.com/princed/karma-expect/issues"
   },
-  "peerDependencies": {
-    "karma": ">=0.9"
+  "devDependencies": {
+    "karma": ">=0.9",
+    "karma-firefox-launcher": "0.1.6",
+    "karma-mocha": "0.2.0",
+    "karma-phantomjs-launcher": "0.2.1",
+    "mocha": "2.3.3",
+    "phantomjs": "1.9.18"
   },
   "dependencies": {
     "expect.js": "0.3.1"
