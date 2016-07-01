@@ -28,7 +28,7 @@
     "url": "https://github.com/princed/karma-expect/issues"
   },
   "devDependencies": {
-    "eslint": "^2.2.0",
+    "eslint": "^3.0.0",
     "karma-firefox-launcher": "^1.0.0",
     "karma-mocha": "^1.0.1",
     "karma-phantomjs-launcher": "^0.2.1",
