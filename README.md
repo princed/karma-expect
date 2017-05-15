@@ -1,6 +1,8 @@
 [karma](http://karma-runner.github.io)-[expect](https://github.com/Automattic/expect.js)
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/princed/karma-expect.svg)](https://greenkeeper.io/)
+
 [![Dependency Status](https://img.shields.io/david/princed/karma-expect.svg)](https://david-dm.org/princed/karma-expect) [![NPM version](https://img.shields.io/npm/v/karma-expect.svg)](https://www.npmjs.com/package/karma-expect) [![NPM downloads](https://img.shields.io/npm/dt/karma-expect.svg)](https://www.npmjs.com/package/karma-expect) [![Travis CI](https://img.shields.io/travis/princed/karma-expect.svg)](https://travis-ci.org/princed/karma-expect)
 
 Motivation
